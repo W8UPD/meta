@@ -1,0 +1,8 @@
+{
+  "project_id" : "Project Name (identical to what it is called in Phabricator)",
+  "conduit_uri" : "http://phabricator.w8upd.org/api/",
+  "unit_engine" : "PhutilUnitTestEngine",
+  "copyright_holder" : "W8UPD",
+  "remote_hooks_installed" : true
+}
+
